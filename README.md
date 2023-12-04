@@ -1,7 +1,13 @@
--Merhaba,ben Ege arda uzun. 
--python gelistiricisiyim bukadar.
+<h1 align="center">Merhaba👋, Ben EgeArdauzun</h1>
+<h3 align="center">Şuanda Yazılım dillerini ve Bilgisayarı öğrenmeye çalışan bir öğrenciyim :]</h3>
 
-<!---
-EgeArdauzun/EgeArdauzun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Ben Şuanda **C# öğrenmekteyim aynı zamanda kafam estiğinde başka dilleride öğrenmeyi deniyorum.**
+
+- 📫 Bana Ulaşmak için mail adresime yazabilirsin. **egeardauzun@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
